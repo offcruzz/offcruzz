@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @offcruzz
-- 🌱 I’m currently learning HTML CSS JS
+- 🌱 I’m currently learning JS e TS
 - 💞️ Lua e Python are my favorite languages
 - 📫 How to reach me: Discord -> cruzz#5071
 
